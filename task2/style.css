@@ -1,0 +1,17 @@
+
+i {
+	font-size: 30px;
+}
+ul {
+	font-size: 20px;
+}
+li {
+	color: red;
+	font-weight: bold;
+}
+
+h1{
+	color: green;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 50px;
+}
